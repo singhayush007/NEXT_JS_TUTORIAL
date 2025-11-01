@@ -8,6 +8,15 @@ This repository contains my personal practice and learning projects for **Next.j
 - Layouts and Nested Routes
 - Server Components and Client Components
 - API Routes and Data Fetching
+- Built-in server using **NextRequest** & **NextResponse**
+- Implemented **GET** and **POST** methods
+- Created **Dynamic API Routes** using `[id]`
+- Accessed **Query Parameters** using `request.nextUrl.searchParams`
+- Understood the difference between **Params** and **Query Params**
+- **SSR (Server Side Rendering)** using `cache: "no-store"`
+- **SSG (Static Site Generation)** using `cache: "force-cache"`
+- **ISR (Incremental Static Regeneration)** using `next: { revalidate: 10 }`
+- Learned when to use each method and how they fetch data differently
 
 ## 🛠️ Tech Stack
 
