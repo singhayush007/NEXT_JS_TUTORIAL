@@ -75,4 +75,4 @@ This repository contains my personal practice and learning projects for **Next.j
 
 - **Ayush Singh**  
 - Full Stack Developer | Gen AI Enthusiast  
-- 📧 [ayushfullstack@gmail.com]
+- 📧 ayushfullstack@gmail.com
